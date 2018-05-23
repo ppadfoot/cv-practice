@@ -1,0 +1,6 @@
+#+title: CV practice
+
+This repo contains my code from 2017 summer practice on computer vision.
+- ~01-color-reconstruct~ -- Program to reconstruct colored image from Prokudin Gorskii collection
+- ~02-seam-carving~ -- Implementation of seam carving algorithm for context aware image resizing
+- ~03-sign-classification~ -- SVM + HOG road sign classifier
